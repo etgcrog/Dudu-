@@ -1,0 +1,4 @@
+# Pedir para o usuário digitar um numero e retornar se é par ou impar.
+num= int(input("Digite um numero:"))
+if num % 1:
+    print('par')
